@@ -1,4 +1,4 @@
-package curso_java;
+package aula01;
 /**
  * Extração de Domínio de Email
 

@@ -1,4 +1,4 @@
-package curso_java;
+package aula01;
 /**
  * Calcular a soma dos números pares de 1 a N
 

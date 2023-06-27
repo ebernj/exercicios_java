@@ -1,4 +1,4 @@
-package curso_java;
+package aula01;
 /**
  * Escreva um programa em Java que solicita ao usuário uma palavra ou frase e verifica se ela é um palíndromo. 
 Um palíndromo é uma palavra, frase ou sequência de caracteres que é lida da mesma maneira tanto de trás para frente quanto de frente para trás, desconsiderando espaços em branco e diferenciação entre letras maiúsculas e minúsculas.

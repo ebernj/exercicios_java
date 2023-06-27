@@ -1,4 +1,4 @@
-package curso_java;
+package aula01;
 /**
  * Escreva um programa em Java que solicite ao usuário 2 números inteiros positivos M e N e 
 calcule a soma de todos os números pares de M até N.
